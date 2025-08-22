@@ -1,7 +1,4 @@
-# Self-Driving-Car
-A simple Haskell console application that simulates a self-driving car’s decision-making at traffic lights. The program takes user input (red, yellow, or green) and uses pattern matching to decide whether the car should Stop, Slow, or Go. It runs in a loop until the user types quit.
 # Self-Driving Car AI (Haskell)
-
 A simple Haskell console application by **@Onyinyechi46** that simulates a self-driving car's decision-making at traffic lights. Typing “red”, “yellow”, or “green” prompts the car to **Stop**, **Slow**, or **Go** respectively. The app runs interactively until you input `quit`.
 
 ---
